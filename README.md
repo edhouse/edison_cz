@@ -2,7 +2,7 @@
 Materiály v češtině k projektu MeetEdison
 
 ### Změny
-10.5.2023 - oprava chybného kódu na straně 24 v sešitě [student lessons activities](https://github.com/edhouse/edison_cz/blob/master/EdScratch-student-lesson-activities-cut%20cz.pdf)
+10.5.2023 - oprava chybných čárových kódů pro dálkový ovladač na straně 24 v sešitě [student lessons activities](https://github.com/edhouse/edison_cz/blob/master/EdScratch-student-lesson-activities-cut%20cz.pdf)
 
 ---
 
