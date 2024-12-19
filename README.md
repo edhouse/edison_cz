@@ -22,7 +22,7 @@ https://www.printables.com/model/22384-edison-robot-dock
 ## Edscratch v češtině - plugin pro prohlížeče Chrome a Edge
 Plugin funguje pro obě verze robota:
 - Instalace přes [Chrome web store zde link](https://chromewebstore.google.com/detail/edscratchczech/mloalafnehdgmjhoicnajgnlajppeedm)
-- Zdrojové soubory - https://github.com/edhouse/edscratchczech
+- Zdrojové soubory pro vývoj pluginu https://github.com/edhouse/edscratchczech
 
 ---
 
