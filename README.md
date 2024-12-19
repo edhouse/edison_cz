@@ -9,7 +9,7 @@ Robot Edison se ve školách vyskytuje ve 2 variantách (verze V2 a V3), proto z
 ### Edison V3 – programování přes USB výstup
 Nová verze robota na trhu od roku 2024.
 
-Český překlad originálních výukových nateriálů pro tisk naleznete zde - [V3 EdScratch student lessons activities cz](https://github.com/edhouse/edison_cz/blob/master/EdScratch-Student-Lesson-Activities-EdisonV3-cut-cz.pdf)
+Český překlad originálních výukových materiálů pro tisk naleznete zde - [V3 EdScratch student lessons activities cz](https://github.com/edhouse/edison_cz/blob/master/EdScratch-Student-Lesson-Activities-EdisonV3-cut-cz.pdf)
 
 ### Edison V2 – programování přes audio výstup počítače
 České překlady naleznete v oddělené [složce V2](V2/) ve dvou variantách:
